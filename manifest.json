@@ -1,0 +1,10 @@
+{
+  "Name": "Handholding",
+  "Author": "Gabrbot180",
+  "Version": "1.0.0",
+  "Description": "A mod that allows you to hold other players hands to drag them along.",
+  "UniqueID": "Gabrbot180.Handhold",
+  "EntryDll": "Handhold.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys":  []
+}
